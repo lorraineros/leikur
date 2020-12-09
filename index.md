@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Play
+ref: play
+---
 
-You can use the [editor on GitHub](https://github.com/lorraineros/leikur/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Um leikinn
+PrisonVirus er 2D Pixel Art hryllingsleikur. Vísindamaðurinn (player) þarf að hlaupa í gegnum fangelsi án þess að deyja til að bjarga syni sínum. Á hverri hæð eru óvinir rottur, zombies, fangar og verðir. Scientist þarf að komast í gegnum hæðina með því að drepa óvini en þú getur ekki drepið rottur.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Video
 
-### Markdown
+{% include youtube.html %}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Leikur
 
-```markdown
-Syntax highlighted code block
+{% include play.html %}
 
-# Header 1
-## Header 2
-### Header 3
+## Stýringar
 
-- Bulleted
-- List
+| Aðgerð     |    Keyboard     |
+|:-----------|:----------------|
+| Til hægri  | `D` eða &#8594; |
+| Til vintri | `A` eða &#8592; |
+| Hoppa      | `w` eða &#8593; |
+| Skjóta     | `Space bar`     |
 
-1. Numbered
-2. List
+# Spila
+[Sækja leik fyrir Windows](https://github.com/lorraineros/leikur/releases)
 
-**Bold** and _Italic_ and `Code` text
+# Wiki
+[Wiki page á Github](https://github.com/lorraineros/leikur/wiki/Verkefni-5)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Um verkefnið
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lorraineros/leikur/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<dl>
+<dt>Höfundar</dt>
+<dd>Anh, Guðrún og Lorraine</dd>
+<dt>Skóli</dt>
+<dd>Tækniskólinn - Tölvubraut</dd>
+<dt>Áfangi og önn</dt>
+<dd>FORR3FL05EU - Haustönn 2020</dd>
+</dl>

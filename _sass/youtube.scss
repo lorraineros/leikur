@@ -1,0 +1,5 @@
+@import 'responsive';
+
+.youtube-wrapper {
+    @include responsive-iframe(56.25%);  /* 16:9 */
+}

@@ -1,0 +1,10 @@
+@import 'responsive';
+
+.unity-player-container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+/* Responsive Unity player */
+.unity-player-wrapper {
+    @include responsive-iframe(65%);  /* 4:3 */
+}
