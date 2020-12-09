@@ -1,12 +1,11 @@
-I"�<h1 id="um-leikinn">Um leikinn</h1>
-<p>PrisonVirus er 2D Pixel Art hryllingsleikur. Vísindamaðurinn (player) þarf að hlaupa í gegnum fangelsi án þess að deyja til að bjarga syni sínum. Á hverri hæð eru óvinir rottur, zombies, fangar og verðir. Scientist þarf að komast í gegnum hæðina með því að drepa óvini en þú getur ekki drepið rottur.</p>
+I"�<h1 id="um-leikinn">Um leikinn</h1>
+<p>PrisonVirus er 2D Pixel Art hryllingsleikur. Vísindamaðurinn (player) þarf að hlaupa í gegnum fangelsi án þess að deyja til að bjarga syni sínum. Á hverri hæð eru óvinir rottur, zombies, fangar og verðir, þú mátt ekki snerta óvini annars deyrðu. Scientist þarf að komast í gegnum hæðina með því að drepa óvini en þú getur ekki drepið rottur.</p>
 
 <h1 id="video">Video</h1>
 
 <div class="youtube-wrapper">
-    <iframe width="600" height="355" src="https://www.youtube.com/embed/K_BwyOIWiNc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+    <iframe width="750" height="505" src="https://www.youtube.com/embed/K_BwyOIWiNc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
-<p>245</p>
 
 <h1 id="leikur">Leikur</h1>
 
